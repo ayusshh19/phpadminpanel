@@ -1,0 +1,54 @@
+msgid "dashboard"
+msgstr "Tableau de bord"
+
+msgid "users"
+msgstr "utilisateur"
+
+msgid "select language"
+msgstr "Choisir la langue"
+
+msgid "Logout"
+msgstr "Se déconnecter"
+
+msgid "greetuser"
+msgstr "Salut"
+
+// Stats content
+msgid "totalusers"
+msgstr "Utilisateur total"
+
+msgid "totalactiveusers"
+msgstr "Nombre total d'utilisateurs actifs"
+
+msgid "noupdatedusers"
+msgstr "Nombre total d'utilisateurs mis à jour"
+
+msgid "noofdeleteduser"
+msgstr "Nombre total d'utilisateurs supprimés"
+
+// CRUD TABLE CONTENT
+msgid "Empdetails"
+msgstr "Détails de l'employé"
+
+msgid "role"
+msgstr "Rôle"
+
+// Active User Content
+msgid "user"
+msgstr "Utilisateur"
+
+msgid "lastlogin"
+msgstr "Dernière connexion"
+
+// User display Card
+msgid "userstatus"
+msgstr "statut"
+
+msgid "companyname"
+msgstr "Saint Gobain Indec"
+
+msgid "active"
+msgstr "actif"
+
+msgid "Loadpo"
+msgstr "Charger le fichier PO"

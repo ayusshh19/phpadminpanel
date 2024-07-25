@@ -1,0 +1,12 @@
+[INFO] [2024-07-24 16:05:48] --> logout successfull
+[ERROR] [2024-07-24 16:06:04] --> Invalid Username
+[ERROR] [2024-07-24 16:06:35] --> Invalid Username or Password
+[INFO] [2024-07-24 16:06:48] --> logout successfull
+[ERROR] [2024-07-24 16:08:42] --> Username Ayusshh19 Already exist
+[ERROR] [2024-07-24 16:08:42] --> email cm.b.49ayush.shukla@gmail.com Already exist
+[ERROR] [2024-07-24 16:09:23] --> Username Ayusshh19 Already exist
+[INFO] [2024-07-24 16:10:14] --> User data inserted into user table
+[INFO] [2024-07-24 16:10:15] --> Name converted to chinese
+[INFO] [2024-07-24 16:10:19] --> Name converted to french
+[INFO] [2024-07-24 16:10:19] --> User successfully registered
+[INFO] [2024-07-24 16:10:47] --> logout successfull

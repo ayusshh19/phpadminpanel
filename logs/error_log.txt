@@ -1,0 +1,13 @@
+[2024-07-24 12:23:09] [ERROR]: Invalid Username or Password
+[2024-07-24 12:24:16] [ERROR]: Invalid Username or Password
+[2024-07-24 12:26:09] [ERROR]: Invalid Username or Password
+[2024-07-24 12:26:26] [ERROR]: Call to undefined function iet()
+[2024-07-24 12:44:01] [ERROR]: Username Already exist
+[2024-07-24 12:50:56] [ERROR]: Username Already exist
+[2024-07-24 12:54:20] [ERROR]: Username Already exist
+[2024-07-24 12:55:03] [ERROR]: Username Already exist
+[2024-07-24 14:35:41] [ERROR]: Username Already exist
+[2024-07-24 14:37:32] [ERROR]: Username Already exist
+[2024-07-24 14:40:43] [ERROR]: email Already exist
+[2024-07-24 15:18:40] [ERROR]: Call to a member function prepare() on null file name C:\xampp\htdocs\Phpcore\view\admin.php line no 21
+[2024-07-24 15:41:03] [ERROR]: Invalid Username

@@ -1,0 +1,4 @@
+[2024-07-24 12:35:12] [INFO]: User data inserted into user table
+[2024-07-24 12:35:15] [INFO]: Name converted to chinese
+[2024-07-24 12:35:17] [INFO]: Name converted to french
+[2024-07-24 12:35:17] [INFO]: User successfully registered

@@ -1,0 +1,8 @@
+[ERROR] [2024-07-25 07:22:12] --> Invalid Username or Password
+[INFO] [2024-07-25 07:34:02] --> logout successfull
+[ERROR] [2024-07-25 07:34:41] --> email cm.b.49ayush.shukla@gmail.com Already exist
+[INFO] [2024-07-25 07:35:54] --> User data inserted into user table
+[INFO] [2024-07-25 07:35:58] --> Name converted to chinese
+[INFO] [2024-07-25 07:36:01] --> Name converted to french
+[INFO] [2024-07-25 07:36:01] --> User successfully registered
+[INFO] [2024-07-25 07:37:00] --> logout successfull

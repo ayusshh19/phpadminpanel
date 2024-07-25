@@ -1,0 +1,54 @@
+msgid "dashboard"
+msgstr "仪表板"
+
+msgid "users"
+msgstr "用户"
+
+msgid "select language"
+msgstr "选择语言"
+
+msgid "Logout"
+msgstr "登出"
+
+msgid "greetuser"
+msgstr "你好"
+
+// Stats content
+msgid "totalusers"
+msgstr "用户总数"
+
+msgid "totalactiveusers"
+msgstr "活跃用户总数"
+
+msgid "noupdatedusers"
+msgstr "更新用户总数"
+
+msgid "noofdeleteduser"
+msgstr "删除的用户总数"
+
+// CRUD TABLE CONTENT
+msgid "Empdetails"
+msgstr "员工详细信息"
+
+msgid "role"
+msgstr "角色"
+
+// Active User Content
+msgid "user"
+msgstr "用户"
+
+msgid "lastlogin"
+msgstr "上次登录"
+
+// User display Card
+msgid "userstatus"
+msgstr "地位"
+
+msgid "companyname"
+msgstr "圣戈班公司"
+
+msgid "active"
+msgstr "积极的"
+
+msgid "Loadpo"
+msgstr "加载 PO 文件"

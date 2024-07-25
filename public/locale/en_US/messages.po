@@ -1,0 +1,59 @@
+
+msgid "dashboard"
+msgstr "Dashboard"
+
+msgid "users"
+msgstr "User"
+
+msgid "select language"
+msgstr "Select Language"
+
+msgid "Logout"
+msgstr "Log Out"
+
+msgid "greetuser"
+msgstr "Hi"
+
+// Stats content
+msgid "totalusers"
+msgstr "Total User"
+
+msgid "totalactiveusers"
+msgstr "Total Active Users"
+
+msgid "noupdatedusers"
+msgstr "Total Users Updated"
+
+msgid "noofdeleteduser"
+msgstr "Total Users deleted"
+
+// CRUD TABLE CONTENT
+msgid "Empdetails"
+msgstr "Employee details"
+
+msgid "role"
+msgstr "Role"
+
+// Active User Content
+msgid "user"
+msgstr "User"
+
+msgid "lastlogin"
+msgstr "Last Login"
+
+// User display Card
+msgid "userstatus"
+msgstr "Status"
+
+msgid "companyname"
+msgstr "Saint Gobain Indec"
+
+msgid "active"
+msgstr "active"
+
+msgid "active"
+msgstr "active"
+
+msgid "Loadpo"
+msgstr "Load PO File"
+
